@@ -1,6 +1,6 @@
-# ES6 Boilerplate
+# BabelShips
 
-A starting point for using ES6 with [Gulp](http://gulpjs.com/), [Browserify](http://browserify.org/) and [Babel](http://babeljs.io/).
+A Battleships game written using BabelJS, Browserify and Gulp.
 
 ## Setup
 
